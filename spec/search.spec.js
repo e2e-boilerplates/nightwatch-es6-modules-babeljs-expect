@@ -8,9 +8,7 @@ module.exports = {
   },
 
   "should be on Sandbox": function(browser) {
-    browser.assert.title("Sandbox");
-    browser.getText("css selector", "h1", function(text) {
-      browser.assert.strictEqual(text.value, "Sandbox");
-    });
+    browser.expect.title().to.contain("Sandbox");
+    browser.expect.element("h1").text.to.equal("Sandbox");
   }
 };

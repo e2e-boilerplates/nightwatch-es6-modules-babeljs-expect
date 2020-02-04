@@ -1,9 +1,9 @@
-name: nightwatch-es6-modules-babeljs-assert
+name: nightwatch-es6-modules-babeljs-expect
 
-on: 
+on:
   push:
   schedule:
-    - cron: '0 0 1-31/2 * *' 
+    - cron: '0 0 1-31/2 * *'
 
 jobs:
   build:
@@ -24,4 +24,6 @@ jobs:
     - name: LINT, TEST
       run: |
           npm run lint
-          npm run test-ci
+    - name: LINT, TEST
+      run: |
+        npm run test-ci
