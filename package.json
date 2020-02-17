@@ -1,12 +1,11 @@
 {
-  "name": "nightwatch-es6modules-babel-expect",
+  "name": "nightwatch-es6-modules-babel-expect",
   "version": "1.0.0",
-  "description": "nightwatch end-to-end test automation boilerplate, using ES6-modules, BabelJS and Expect.",
+  "description": "Nightwatch end-to-end test automation boilerplate, using ES6 modules, BabelJS and Expect.",
   "main": "index.js",
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
-    "test": "npx nightwatch",
-    "test-ci": "npx nightwatch -c nightwatch-ci.conf.js"
+    "test": "npx nightwatch"
   },
   "keywords": [
     "nightwatch",
@@ -14,7 +13,9 @@
     "babel",
     "boilerplate",
     "example",
-    "expect"
+    "expect",
+    "e2e",
+    "e2e test"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
