@@ -1,6 +1,6 @@
 module.exports = {
   before: browser => {
-    browser.url("https://e2e-boilerplates.github.io/sandbox/");
+    browser.url("https://e2e-boilerplate.github.io/sandbox/");
   },
 
   after: browser => {
