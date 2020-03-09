@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/nightwatch-es-modules-babel-expect/issues"
   },
   "dependencies": {
-    "@babel/register": "^7.6.2"
+    "@babel/register": "7.8.6"
   },
   "description": "Nightwatch end-to-end test automation boilerplate. using ES Modules, Babel and Expect.",
   "devDependencies": {
