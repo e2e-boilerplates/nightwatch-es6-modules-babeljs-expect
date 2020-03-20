@@ -4,15 +4,15 @@
     "url": "https://github.com/e2e-boilerplate/nightwatch-es-modules-babel-expect/issues"
   },
   "dependencies": {
-    "@babel/register": "7.8.6"
+    "@babel/register": "7.9.0"
   },
   "description": "Nightwatch end-to-end test automation boilerplate. using ES Modules, Babel and Expect.",
   "devDependencies": {
     "@babel/cli": "7.8.4",
-    "@babel/core": "7.8.7",
-    "@babel/plugin-transform-runtime": "7.8.3",
-    "@babel/preset-env": "7.8.7",
-    "@babel/runtime": "7.8.7",
+    "@babel/core": "7.9.0",
+    "@babel/plugin-transform-runtime": "7.9.0",
+    "@babel/preset-env": "7.9.0",
+    "@babel/runtime": "7.9.0",
     "chromedriver": "79.0.3",
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.1.0",
