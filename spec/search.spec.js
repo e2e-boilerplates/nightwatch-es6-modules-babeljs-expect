@@ -7,7 +7,7 @@ module.exports = {
     browser.end();
   },
 
-  "should be on Sandbox": function(browser) {
+  "should be on Sandbox": browser => {
     browser.expect.title().to.contain("Sandbox");
     browser.expect.element("h1").text.to.equal("Sandbox");
   }
