@@ -3,7 +3,7 @@ const src_folders = ["spec"];
 const webdriver = {
   start_process: true,
   server_path: "node_modules/.bin/chromedriver",
-  port: 9515
+  port: 9515,
 };
 
 const headed = {
@@ -12,10 +12,10 @@ const headed = {
   test_settings: {
     default: {
       desiredCapabilities: {
-        browserName: "chrome"
-      }
-    }
-  }
+        browserName: "chrome",
+      },
+    },
+  },
 };
 
 const headless = {
@@ -26,11 +26,11 @@ const headless = {
       desiredCapabilities: {
         browserName: "chrome",
         chromeOptions: {
-          args: ["headless"]
-        }
-      }
-    }
-  }
+          args: ["headless"],
+        },
+      },
+    },
+  },
 };
 
 const config = process.env.GITHUB_ACTIONS ? headless : headed;
