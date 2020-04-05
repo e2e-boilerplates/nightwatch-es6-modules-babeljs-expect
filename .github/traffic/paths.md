@@ -1,0 +1,11 @@
+| referrer                                                                  | count | uniques |
+| :------------------------------------------------------------------------ | :---- | :------ |
+| /e2e-boilerplate/nightwatch-es-modules-babel-expect/actions               | 6     | 2       |
+| /e2e-boilerplate/nightwatch-es-modules-babel-expect                       | 4     | 1       |
+| /e2e-boilerplate/nightwatch-es-modules-babel-expect/actions/runs/63293169 | 3     | 1       |
+| /e2e-boilerplate/nightwatch-es-modules-babel-expect/actions/runs/61899873 | 2     | 2       |
+| /e2e-boilerplate/nightwatch-es-modules-babel-expect/runs/529287289        | 2     | 2       |
+| /e2e-boilerplate/nightwatch-es-modules-babel-expect/actions/runs/61951849 | 1     | 1       |
+| /e2e-boilerplate/nightwatch-es-modules-babel-expect/runs/526152447        | 1     | 1       |
+| /e2e-boilerplate/nightwatch-es-modules-babel-expect/runs/526209302        | 1     | 1       |
+| /e2e-boilerplate/nightwatch-es-modules-babel-expect/runs/526211337        | 1     | 1       |
