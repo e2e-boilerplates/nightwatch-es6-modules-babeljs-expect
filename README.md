@@ -2,7 +2,7 @@
     
 # Nightwatch Boilerplate
     
-Nightwatch end-to-end test automation boilerplate, Using [ES Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/), [Babel](https://babeljs.io) and Expect.. Clone or fork this repository.
+Nightwatch end-to-end test automation boilerplate, Using [ES Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/), [Babel](https://babeljs.io) and Expect. Clone or fork this repository.
     
 ## Getting Started
     	1. git clone git@github.com:e2e-boilerplate/nightwatch-es-modules-babel-expect.git
