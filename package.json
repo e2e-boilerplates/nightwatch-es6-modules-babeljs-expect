@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/nightwatch-es-modules-babel-expect/issues"
   },
   "dependencies": {
-    "chromedriver": "85.0.0",
+    "chromedriver": "85.0.1",
     "nightwatch": "1.4.1"
   },
   "description": "Nightwatch end-to-end test automation boilerplate. Using ES Modules, Babel and Expect.",
