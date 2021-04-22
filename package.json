@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/nightwatch-es-modules-babel-expect/issues"
   },
   "dependencies": {
-    "chromedriver": "90.0.0",
+    "chromedriver": "90.0.4430.24",
     "nightwatch": "1.5.1"
   },
   "description": "Nightwatch end-to-end test automation boilerplate. Using ES Modules, Babel and Expect.",
@@ -20,7 +20,7 @@
     "eslint-config-prettier": "6.15.0",
     "eslint-plugin-import": "2.22.1",
     "eslint-plugin-prettier": "3.4.0",
-    "husky": "4.3.8",
+    "husky": "6.0.0",
     "lint-staged": "10.5.4",
     "prettier": "2.2.1",
     "pretty-quick": "3.1.0"
