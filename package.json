@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "chromedriver": "90.0.1",
-    "nightwatch": "1.7.6"
+    "nightwatch": "1.7.7"
   },
   "description": "Nightwatch end-to-end test automation boilerplate. Using ES Modules, Babel and Expect.",
   "devDependencies": {
